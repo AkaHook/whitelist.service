@@ -1,0 +1,5 @@
+local HWIDtable = {
+  "HWID1"
+}
+
+return HWIDtable
