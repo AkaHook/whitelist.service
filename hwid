@@ -1,5 +1,5 @@
 local HWIDtable = {
-  "HWID1"
+  "463849AC-3F87-4255-B678-EA093103EA18"
 }
 
 return HWIDtable
