@@ -1,9 +1,9 @@
 local keyWhitelist = {
-"KEY1",
-"KEY2",
-"KEY3",
-"KEY4",
-"KEY5",
+"12344321",
+"43211234",
+"43432121",
+"12341234",
+"14231423",
 }
 
 return keyWhitelist
