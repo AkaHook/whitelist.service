@@ -1,32 +1,6 @@
-local keyWhitelist = {
-"kasdhfdsafhjdshfdsjfhsjdhsdfhsdjdf",
-"sdfkjsadkfsdakfsahdfhsajfhsajsjfhs",
-"gkhfgkjfdshgkjhdgksdfhgkldkdghdfff",
-"ksxjsksjxksajxkasjkawdjuqhjasjhfff",
-"xaslxkasxkasjdkffksjdfkasdfhssadfh",
-"skdfasdkljfhsdkalfhdaslkfhdasklfhd",
-"bd54127ad7a01e2459dca23fg98a500",
-"bMtarqyq1I",
-"ieQyVigEWvV0XwocPEDGEgzcofpQSUSB",
-"q0hGucnPVOcUIs3GBnOC4vhIIKn0hWfl",
-"8BQWrCgwJJa2ebCOAjnWHJVhIG1aZYtn",
-"qDp5j1kHAYmcHW5VzRLMjvtCXPRuu8lc",
-"jvwN2quN07zVaB0WlHi0aMX16CeK665t",
-"DoJ8Y7SQfNz8SrcZz10HUhC4OdTh9pxv",
-"mrQtVP4ZLvFkTtMZnYdNkjh1qmO6zOsR",
-"I6UJpYFJljUyf8siNDpk37bGAcg12ba5",
-"QCbtkNPsdavPW3yBROoBvTFj4diocTkw",
-"3D859C1D2496F81E",
-"C6552C5EE7C839FC",
-"18D7C764F93C4B4A",
-"7InSppTOiu2KyJiHy2ZDxog0OFCYhshQ",
-"8oVUO2lZgS3e7G155dBfSrm2mvHhrhGP",
-"locxDYnuc5CPLqjP3Wl1RG91CZBQpWbA",
-"B942AC78C454B",
-"dJ8Z34ovRxfKF37tIg2DuurClEJZuGf2",
-"F356388F1C4B1",
-"1u4qTlSPAO0clex3YmbVSSaZFVEdL1Kg",
-"f5mtEXock6pQTOUnMfOfE131aiOzngh4",
+keys = {
+[asdasd123124565464] = true,
+[KEY HERE] = true,
+[KEY HERE] = true
 }
-
-return keyWhitelist
+return keys
