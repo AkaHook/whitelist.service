@@ -3,4 +3,3 @@ keys = {
 [KEY HERE] = true,
 [KEY HERE] = true
 }
-return keys
