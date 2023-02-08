@@ -1,6 +1,8 @@
-return = {
+local blacklist = {
   "blacklistedHWID1",
   "blacklistedHWID2",
   "blacklistedHWID3",
   "blacklistedHWID4"
 }
+
+return blacklist
