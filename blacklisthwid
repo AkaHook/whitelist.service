@@ -1,5 +1,6 @@
 return = {
   "blacklistedHWID1",
   "blacklistedHWID2",
-  "blacklistedHWID3"
+  "blacklistedHWID3",
+  "blacklistedHWID4"
 }
