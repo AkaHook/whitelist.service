@@ -1,6 +1,4 @@
 local blacklistedhwids = {
-"blacklist1",
-"blacklist2",
-"blacklist3"
+"E1013F5D-7909-4EF8-8580-7324B48E73BD"
 }
 return blacklistedhwids
