@@ -1,4 +1,6 @@
-return = {
+local hwidwl = {
 "463849AC-3F87-4255-B678-EA093103EA18",
 "E1013F5D-7909-4EF8-8580-7324B48E73BD"
 }
+
+return hwidwl
