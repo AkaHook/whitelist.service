@@ -1,4 +1,4 @@
-return {
+return = {
   "blacklistedHWID1",
   "blacklistedHWID2",
   "blacklistedHWID3",
